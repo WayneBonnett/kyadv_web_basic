@@ -1,0 +1,132 @@
+{
+    "routes": [
+        {
+            "id": 1,
+            "name": "Climax Gravel",
+            "description": "Route through Climax Gravel",
+            "gpxFile": "assets/gpx/ClimaxKY_Gravel.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 2,
+            "name": "Indiana Gravel Route",
+            "description": "Route through Indiana Gravel Route",
+            "gpxFile": "assets/gpx/Indiana Gravel Route.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 3,
+            "name": "RRS Advanced DBBB ADV 2023",
+            "description": "Route through RRS Advanced DBBB ADV 2023",
+            "gpxFile": "assets/gpx/RRS Advanced DBBB ADV 2023.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 4,
+            "name": "RRS Central Dual Sport Loop 2023",
+            "description": "Route through RRS Central Dual Sport Loop 2023",
+            "gpxFile": "assets/gpx/RRS Central Dual Sport Loop 2023.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 5,
+            "name": "RRS Covered Bridge Loop",
+            "description": "Route through RRS Covered Bridge Loop",
+            "gpxFile": "assets/gpx/RRS Covered Bridge Loop.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 6,
+            "name": "RRS DBNF FSR",
+            "description": "Route through RRS DBNF FSR",
+            "gpxFile": "assets/gpx/RRS DBNF FSR.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 7,
+            "name": "RRS Dual Sport Shorty 2023",
+            "description": "Route through RRS Dual Sport Shorty 2023",
+            "gpxFile": "assets/gpx/RRS Dual Sport Shorty 2023.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 8,
+            "name": "RRS Intermediate ADV Loop 2023",
+            "description": "Route through RRS Intermediate ADV Loop 2023",
+            "gpxFile": "assets/gpx/RRS Intermediate ADV Loop 2023.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 9,
+            "name": "RRS Iron Furnace Loop",
+            "description": "Route through RRS Iron Furnace Loop",
+            "gpxFile": "assets/gpx/RRS Iron Furnace Loop.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 10,
+            "name": "RRS Moonshine Dual Sport Loop 2023",
+            "description": "Route through RRS Moonshine Dual Sport Loop 2023",
+            "gpxFile": "assets/gpx/RRS Moonshine Dual Sport Loop 2023.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 11,
+            "name": "RRS North Paved Loop",
+            "description": "Route through RRS North Paved Loop",
+            "gpxFile": "assets/gpx/RRS North Street Loop.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 12,
+            "name": "RRS NW Scenic Paved Loop",
+            "description": "Route through RRS NW Scenic Paved Loop",
+            "gpxFile": "assets/gpx/RRS NW Scenic Paved Loop.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 13,
+            "name": "RRS Scenic Cental ADV Loop 2023",
+            "description": "Route through RRS Scenic Cental ADV Loop 2023",
+            "gpxFile": "assets/gpx/RRS Scenic Cental ADV Loop 2023.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 14,
+            "name": "RRS South Sweeper Loop",
+            "description": "Route through RRS South Sweeper Loop",
+            "gpxFile": "assets/gpx/RRS South Sweeper Paved Loop.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 15,
+            "name": "RRS SW Dual Sport Loop 2023",
+            "description": "Route through RRS SW Dual Sport Loop 2023",
+            "gpxFile": "assets/gpx/RRS SW Dual Sport Loop 2023.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 16,
+            "name": "RRS SW Twisty Paved Loop",
+            "description": "Route through RRS SW Twisty Paved Loop",
+            "gpxFile": "assets/gpx/RRS SW Twisty Paved Loop.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        }
+    ]
+}

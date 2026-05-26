@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exploring the Red River Gorge",
+      "date": "2024-04-14",
+      "readTime": "5",
+      "tags": ["Adventure", "Trails", "Kentucky"],
+      "excerpt": "A thrilling journey through the scenic Red River Gorge, discovering hidden trails and breathtaking views.",
+      "image": "assets/images/blog/red-river-gorge.jpg",
+      "slug": "exploring-red-river-gorge"
+    },
+    {
+      "id": 2,
+      "title": "Best Motorcycle Routes in Kentucky",
+      "date": "2024-04-10",
+      "readTime": "8",
+      "tags": ["Routes", "Motorcycle", "Guide"],
+      "excerpt": "Discover the most scenic and challenging motorcycle routes that Kentucky has to offer.",
+      "image": "assets/images/blog/kentucky-routes.jpg",
+      "slug": "best-motorcycle-routes-kentucky"
+    },
+    {
+      "id": 3,
+      "title": "Adventure Riding Tips for Beginners",
+      "date": "2024-04-05",
+      "readTime": "6",
+      "tags": ["Tips", "Beginners", "Safety"],
+      "excerpt": "Essential tips and tricks for those starting their adventure riding journey in Kentucky.",
+      "image": "assets/images/blog/adventure-tips.jpg",
+      "slug": "adventure-riding-tips-beginners"
+    },
+    {
+      "id": 4,
+      "slug": "climax-gravel-adventure",
+      "title": "Exploring the Climax Gravel Route",
+      "date": "2024-03-15",
+      "readTime": "5",
+      "tags": ["Gravel", "Adventure", "Kentucky"],
+      "excerpt": "Join us on an exciting journey through the challenging Climax Gravel route, featuring stunning landscapes and technical sections.",
+      "image": "assets/images/blog/climax-gravel.jpg"
+    },
+    {
+      "id": 5,
+      "slug": "beginner-friendly-routes",
+      "title": "Top 5 Beginner-Friendly Routes in Kentucky",
+      "date": "2024-03-10",
+      "readTime": "4",
+      "tags": ["Beginners", "Routes", "Tips"],
+      "excerpt": "Discover the best routes for beginners in Kentucky, perfect for those just starting their adventure riding journey.",
+      "image": "assets/images/blog/beginner-routes.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Kentucky's Hidden Waterfalls",
+      "date": "2024-04-20",
+      "readTime": "7",
+      "tags": ["Nature", "Waterfalls", "Adventure"],
+      "excerpt": "Explore the beautiful hidden waterfalls of Kentucky that make perfect destinations for adventure riders.",
+      "image": "assets/images/blog/kentucky-waterfalls.jpg",
+      "slug": "kentucky-hidden-waterfalls"
+    }
+  ]
+}

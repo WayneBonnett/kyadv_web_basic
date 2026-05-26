@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kentucky ADV - Adventure Routes</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="styles.css" />
+
+    <!-- Leaflet CSS -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <nav class="navbar">
+        <div class="logo">
+          <h1>Kentucky ADV</h1>
+        </div>
+        <ul class="nav-links">
+          <li>
+            <a
+              href="#"
+              onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;"
+              >Home</a
+            >
+          </li>
+          <li>
+            <a href="#routes">Routes</a>
+          </li>
+          <li>
+            <a href="blog.html">Blog</a>
+          </li>
+          <li>
+            <a href="about.html">About</a>
+          </li>
+        </ul>
+        <div class="mobile-menu">
+          <i class="fas fa-bars"></i>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="hero-content">
+        <h1>Kentucky ADV</h1>
+        <p>
+          Discover the thrill of adventure riding through Kentucky's most scenic
+          backroads and trails
+        </p>
+        <div class="hero-buttons">
+          <a href="#routes" class="btn btn-primary">Explore Routes</a>
+          <a href="blog.html" class="btn btn-secondary">Read Blog</a>
+          <a href="about.html" class="btn btn-secondary">About Us</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Featured Routes Section -->
+    <section id="routes" class="routes-section">
+      <h2>Featured Routes</h2>
+      <div class="routes-grid">
+        <!-- Route cards will be dynamically added here -->
+      </div>
+    </section>
+
+    <!-- Map Section -->
+    <section class="map-section">
+      <h2>Route Map</h2>
+      <div id="map"></div>
+    </section>
+
+    <!-- Blog Section -->
+    <section id="blog" class="blog-section">
+      <h2>Adventure Stories</h2>
+      <div class="blog-grid">
+        <!-- Blog posts will be dynamically added here -->
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>Kentucky ADV</h3>
+          <p>Your source for Kentucky adventure routes</p>
+        </div>
+        <div class="footer-section">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="#routes">Routes</a></li>
+            <li><a href="#about">About</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>Connect</h3>
+          <div class="social-links">
+            <a href="#"><i class="fab fa-facebook"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2025 Kentucky ADV. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gpxparser/3.0.0/gpxparser.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

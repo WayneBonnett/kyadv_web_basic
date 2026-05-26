@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blog Post - Kentucky ADV</title>
+    <link rel="stylesheet" href="../styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="logo">
+          <a href="../index.html">Kentucky ADV</a>
+        </div>
+        <div class="nav-links" id="navLinks">
+          <ul>
+            <li>
+              <a href="../index.html"><i class="fas fa-home"></i> Home</a>
+            </li>
+            <li>
+              <a href="../index.html#routes"
+                ><i class="fas fa-route"></i> Routes</a
+              >
+            </li>
+            <li>
+              <a href="../index.html#blog"><i class="fas fa-blog"></i> Blog</a>
+            </li>
+            <li>
+              <a href="../index.html#about"
+                ><i class="fas fa-motorcycle"></i> About</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div class="hamburger" onclick="toggleMenu()">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </nav>
+    </header>
+
+    <main class="blog-post">
+      <article>
+        <header class="post-header">
+          <h1 id="post-title"></h1>
+          <div class="post-meta">
+            <span class="post-date" id="post-date"></span>
+            <span class="post-read-time" id="post-read-time"></span>
+          </div>
+          <div class="post-tags" id="post-tags"></div>
+        </header>
+        <div class="post-image">
+          <img id="post-image" src="" alt="" />
+        </div>
+        <div class="post-content" id="post-content">
+          <!-- Content will be loaded dynamically -->
+        </div>
+      </article>
+    </main>
+
+    <footer>
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>About Us</h3>
+          <p>
+            Discover the best adventure routes in Kentucky. From scenic trails
+            to challenging paths, find your next adventure.
+          </p>
+        </div>
+        <div class="footer-section">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../index.html#routes">Routes</a></li>
+            <li><a href="../index.html#blog">Blog</a></li>
+            <li><a href="../index.html#about">About</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>Connect With Us</h3>
+          <div class="social-links">
+            <a href="#"><i class="fab fa-facebook"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2024 Kentucky ADV. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script src="../script.js"></script>
+    <script src="blog.js"></script>
+  </body>
+</html>

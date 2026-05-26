@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About - Kentucky ADV</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+    <style>
+      .about-section {
+        max-width: 800px;
+        margin: 2rem auto;
+        padding: 2rem;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      }
+
+      .about-header {
+        text-align: center;
+        margin-bottom: 3rem;
+        position: relative;
+      }
+
+      .about-header h1 {
+        font-size: 2.5rem;
+        color: var(--primary-color);
+        margin-bottom: 1rem;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+      }
+
+      .about-header p {
+        color: var(--secondary-color);
+        font-size: 1.2rem;
+        font-style: italic;
+      }
+
+      .about-text {
+        line-height: 1.8;
+      }
+
+      .about-text h2 {
+        color: var(--secondary-color);
+        margin: 2rem 0 1rem;
+        font-size: 1.8rem;
+      }
+
+      .about-text p {
+        margin-bottom: 1.5rem;
+        color: #444;
+      }
+
+      .about-text ul {
+        list-style: none;
+        margin: 1.5rem 0;
+        padding-left: 1.5rem;
+      }
+
+      .about-text ul li {
+        margin-bottom: 0.8rem;
+        position: relative;
+      }
+
+      .about-text ul li::before {
+        content: "🏍️";
+        position: absolute;
+        left: -1.5rem;
+      }
+
+      .youtube-link {
+        display: inline-block;
+        background: #ff0000;
+        color: white;
+        padding: 1rem 2rem;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: all 0.3s;
+        margin-top: 2rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .youtube-link:hover {
+        background: #cc0000;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+      }
+
+      .youtube-link i {
+        margin-right: 0.5rem;
+      }
+
+      @media (max-width: 768px) {
+        .about-section {
+          margin: 1rem;
+          padding: 1.5rem;
+        }
+
+        .about-header h1 {
+          font-size: 2rem;
+        }
+
+        .about-text h2 {
+          font-size: 1.5rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <nav class="navbar">
+        <div class="logo">
+          <h1>Kentucky ADV</h1>
+        </div>
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html#routes">Routes</a></li>
+          <li><a href="index.html#blog">Blog</a></li>
+          <li><a href="about.html">About</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section class="about-section">
+        <div class="about-header">
+          <h1>About Kentucky ADV</h1>
+          <p>Your source for adventure riding in the Bluegrass State</p>
+        </div>
+
+        <div class="about-text">
+          <h2>Our Story</h2>
+          <p>
+            Kentucky ADV is your go-to resource for adventure motorcycle riding
+            in Kentucky. We're passionate about exploring the beautiful
+            backroads, gravel paths, and hidden gems that make Kentucky a
+            perfect destination for adventure riders.
+          </p>
+
+          <h2>What We Offer</h2>
+          <ul>
+            <li>Detailed route guides and GPX files for your next adventure</li>
+            <li>Adventure riding tips and techniques for all skill levels</li>
+            <li>Gear reviews and recommendations for your setup</li>
+            <li>Scenic ride reports from across Kentucky</li>
+            <li>Community meetups and group rides</li>
+          </ul>
+
+          <p>
+            Whether you're a beginner looking to start your adventure riding
+            journey or an experienced rider seeking new routes, we're here to
+            help you discover the best that Kentucky has to offer.
+          </p>
+
+          <a
+            href="https://youtube.com/@kentuckyadv"
+            class="youtube-link"
+            target="_blank"
+          >
+            <i class="fab fa-youtube"></i> Subscribe to our YouTube Channel
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>Kentucky ADV</h3>
+          <p>Your source for Kentucky adventure routes</p>
+        </div>
+        <div class="footer-section">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="index.html#routes">Routes</a></li>
+            <li><a href="index.html#blog">Blog</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>Connect</h3>
+          <div class="social-links">
+            <a href="https://youtube.com/@kentuckyadv" target="_blank"
+              ><i class="fab fa-youtube"></i
+            ></a>
+            <a href="#"><i class="fab fa-facebook"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2025 Kentucky ADV. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>
