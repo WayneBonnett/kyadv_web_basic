@@ -2,6 +2,134 @@
     "routes": [
         {
             "id": 1,
+            "name": "1 Lane Tunnel Underpass",
+            "description": "Elevation: 616 feet",
+            "gpxFile": "assets/gpx/2023 BAT - KY Iron Furnaces.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 2,
+            "name": "2023 Kentucky Derby Winner",
+            "description": "Elevation: 970 feet",
+            "gpxFile": "assets/gpx/2024 BAT - Dam Kentucky River Tour.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 3,
+            "name": "24 Hours of Appalachia: Run for the Hills Final",
+            "description": null,
+            "gpxFile": "assets/gpx/24-hours-of-appalachia-run-for-the-hills-final.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 4,
+            "name": "VCP 8",
+            "description": "Time Started: 8/20/25, 16:23:52 EDT\n\n\n\nCreated by <a href='http://itunes.apple.com/us/app/gaia-gps/id329127297?mt=8'>Gaia GPS</a> on iOS.<p>Total Distance: 120.16 mi<br>Total Time: 03:39:17<br>Moving Time: 03:39:17<br>Average Speed: 32.9 mph<br> Average Moving Speed: 32.9 mph<br> Max Speed: 63.5 mph<br>Min Elevation: 1,087.87 ft<br>Max Elevation: 3,388.56 ft<br>Elevation Gain: 2,300.69 ft<br>Recorded: 8/20/25, 16:23:52 EDT<br>Time Stopped: 8/20/94, 20:21:05 EDT<br><img border=\"0\" src=\"http://chart.apis.google.com/chart?chxr=0,1087,3388&chtt=Elevation (ft)&chxt=y&chs=600x350&cht=lc&chco=3D7930&chg=14.3,-1,1,1&chls=2,4,0&chm=B,C5D4B5BB,0,0,0&chd=s:IIIIHJLNQSUVXZbcfhhjjiiiijjjjjkklnprtwz00zz00234469987520ywuutsrqplllkkkjjjjjjkmnoqrstvwwvxwwwxxvurprsutsrrsrqpnmmjifcccbbaadghihhgghiiihghiefghgfdfecaaYYWWWWVUSQRQQPRQPOPONOPNNOOOMMMLLLLKJJIIHHGFDDDCCCBAAAACDDFGIKMMNNNNNPSUWVWWVVVVVXXYZacdedeffghghhjjjjhedgijkmlmnnnpqrtuwxyz000000000zz00yyyxuusrrrqpppppqsuvyy4555544331101133331zz0yzzxvtssssssssstuuvwy0123455665555544433455555661133444443332210zyxwutsrpnmlkjjjlkklmnopqsuwvuustuxyz10zzyxxwvvutttsssttrommlllllmnpqsuvwwxyxwsrqpoonmllkkkkkkjkkljjjjkjkonmkjgedaYXVUSRQPNMLLKLKJKJJJJJIHGGFFGHJKMPTWWWWVUTSSSSRQNIGHHHHHIJKK\"/>\n\nTime Started: 8/20/25, 10:01:50 EDT\n\n\n\n\n\n\n\nCreated by <a href='http://itunes.apple.com/us/app/gaia-gps/id329127297?mt=8'>Gaia GPS</a> on iOS.<p>Total Distance: 129.87 mi<br>Total Time: 05:34:49<br>Moving Time: 05:27:44<br>Average Speed: 23.3 mph<br> Average Moving Speed: 23.8 mph<br> Max Speed: 67.6 mph<br>Min Elevation: 1,383.69 ft<br>Max Elevation: 3,480.42 ft<br>Elevation Gain: 2,096.73 ft<br>Recorded: 8/20/25, 10:01:50 EDT<br>Time Stopped: 8/20/94, 16:07:04 EDT<br><img border=\"0\" src=\"http://chart.apis.google.com/chart?chxr=0,1383,3480&chtt=Elevation (ft)&chxt=y&chs=600x350&cht=lc&chco=3D7930&chg=14.3,-1,1,1&chls=2,4,0&chm=B,C5D4B5BB,0,0,0&chd=s:ABBAAEFEFFFFFFHKMORRTVWZbeefgfeeaccbbcdfdbXRPLICDEEJMSUUROMKHFFFHHLPSVadbbghijiijjhdbZYUSWVTQNSUVVRTWYddcXVTTVXVVUVXafhijikllljjmnllliedhlnorrqtvtttrpmjhgdddddeddddegijjjmljifdcccdfhkptwuqkecaYVUWXYabfiknptvywwsqmkjfcbaYXadghkmononqonligecZWXZaccaZYVUROPRUWZadfhkigeffjoprtutssvywwxxwy136979874zvvttuutuvvtsqpnmkjgdddeghjnprux01211smmkeZXWWVUSRQPPONNQSWZdgjmmnpssxyzzywvvwupnlieaVRTQPNNOMLLKKJHKOSYZbbeheaXUQMJEDBAB\"/>\n\nTime Started: 8/19/25, 12:03:06 EDT\n\n\n\nCreated by <a href='http://itunes.apple.com/us/app/gaia-gps/id329127297?mt=8'>Gaia GPS</a> on iOS.<p>Total Distance: 122.28 mi<br>Total Time: 03:52:22<br>Moving Time: 03:48:28<br>Average Speed: 31.6 mph<br> Average Moving Speed: 32.1 mph<br> Max Speed: 62.7 mph<br>Min Elevation: 1,384.24 ft<br>Max Elevation: 3,877.68 ft<br>Elevation Gain: 2,493.44 ft<br>Recorded: 8/19/25, 12:03:06 EDT<br>Time Stopped: 8/19/94, 16:28:54 EDT<br><img border=\"0\" src=\"http://chart.apis.google.com/chart?chxr=0,1384,3877&chtt=Elevation (ft)&chxt=y&chs=600x350&cht=lc&chco=3D7930&chg=14.3,-1,1,1&chls=2,4,0&chm=B,C5D4B5BB,0,0,0&chd=s:CCCDGJKLNOPQRSUXZbdddefffgggggfeeeffeeedddfghjknqrtuwyyxvtsrsqnmkjjjkllllkkkkkjkmmmmnooppopqqrssuvvw0378987541zwtrponlfebaaaabbcbaZXXWUUTSPONMMMLKJJJJIHGHHGGGGGGGGGHIJKLMLLMOPRQPPRSUWXYacdcaZWVURPOONMOPRQPQRSTUVROLIIJIILJJKKKKLLMNNNNNNPPQRSSTWZadefggecbbZZYYYXXYbcefhgfedcbYWVSRRRSUVWUTSRPQTTSUUUVVTTUTRQOLLJLNMNPRRTTSRRSSSSUVUUVWXZabZabdfhjklmnoponmkkllmmlkllllkklnnprpnmkigedaYWTQQPONMKKKKKKKJJJJJJKJJJJMNPPOPQRSUTRPNLJIIIIIJJKLMNNNLLKJIIHIKNOPQTWUVUUTRPONMPPNNNNMLLNPONMNONMMLJHFEDDDEGJIGEBBBEHHGGGGGHGGGGFGFDCBAAAAAAAAAABB\"/>\n\nLocation: 37.65829, -80.83329<br>\nElevation: 0.00 ft<br>\nTime Created: 8/19/25, 16:18:56 EDT<br>\nLocation: 37.92993, -80.90277<br>\nElevation: 0.00 ft<br>\nTime Created: 5/31/25, 18:56:38 EDT<br>",
+            "gpxFile": "assets/gpx/24HOA ML2 Final .gpx.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 5,
+            "name": "ADV Advanced DBBB Classic RRS25",
+            "description": "Route through ADV Advanced DBBB Classic RRS25",
+            "gpxFile": "assets/gpx/ADV Advanced DBBB Classic RRS25.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 6,
+            "name": "ADV Advanced Sandstone Loop RRS25",
+            "description": "Route through ADV Advanced Sandstone Loop RRS25",
+            "gpxFile": "assets/gpx/ADV Advanced Sandstone Loop RRS25.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 7,
+            "name": "ADV Advanced Stoney Hollows RRS25",
+            "description": "Route through ADV Advanced Stoney Hollows RRS25",
+            "gpxFile": "assets/gpx/ADV Advanced Stoney Hollows RRS25.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 8,
+            "name": "ADV INTMDT Cawood Loop RRS25",
+            "description": "Route through ADV INTMDT Cawood Loop RRS25",
+            "gpxFile": "assets/gpx/ADV INTMDT Cawood Loop RRS25.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 9,
+            "name": "ADV INTMDT Creek Runner RRS25",
+            "description": "Route through ADV INTMDT Creek Runner RRS25",
+            "gpxFile": "assets/gpx/ADV INTMDT Creek Runner RRS25.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 10,
+            "name": "ADV INTMDT Swifty60 RRS25",
+            "description": "Route through ADV INTMDT Swifty60 RRS25",
+            "gpxFile": "assets/gpx/ADV INTMDT Swifty60 RRS25.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 11,
+            "name": "ADV INTMDT Waterfall Loop RRS25",
+            "description": "Route through ADV INTMDT Waterfall Loop RRS25",
+            "gpxFile": "assets/gpx/ADV INTMDT Waterfall Loop RRS25.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 12,
+            "name": "ADV Scenic Bobcat Loop RRS25",
+            "description": "Route through ADV Scenic Bobcat Loop RRS25",
+            "gpxFile": "assets/gpx/ADV Scenic Bobcat Loop RRS25.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 13,
+            "name": "ADV Scenic Flatlick Falls RRS25",
+            "description": "Route through ADV Scenic Flatlick Falls RRS25",
+            "gpxFile": "assets/gpx/ADV Scenic Flatlick Falls RRS25.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 14,
+            "name": "ADV Scenic Ironworks Loop RRS25",
+            "description": "Route through ADV Scenic Ironworks Loop RRS25",
+            "gpxFile": "assets/gpx/ADV Scenic Ironworks Loop RRS25.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 15,
+            "name": "ADV Scenic Sturgeon Loop RRS25",
+            "description": "Route through ADV Scenic Sturgeon Loop RRS25",
+            "gpxFile": "assets/gpx/ADV Scenic Sturgeon Loop RRS25.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 16,
+            "name": "ADV Scenic Wildcat Super Loop RRS25",
+            "description": "Route through ADV Scenic Wildcat Super Loop RRS25",
+            "gpxFile": "assets/gpx/ADV Scenic Wildcat Super Loop RRS25.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 17,
             "name": "Climax Gravel",
             "description": "Route through Climax Gravel",
             "gpxFile": "assets/gpx/ClimaxKY_Gravel.gpx",
@@ -9,7 +137,15 @@
             "distance": "150 miles"
         },
         {
-            "id": 2,
+            "id": 18,
+            "name": "Dam200",
+            "description": "Route through Dam200",
+            "gpxFile": "assets/gpx/DAM200-2025.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 19,
             "name": "Indiana Gravel Route",
             "description": "Route through Indiana Gravel Route",
             "gpxFile": "assets/gpx/Indiana Gravel Route.gpx",
@@ -17,7 +153,23 @@
             "distance": "150 miles"
         },
         {
-            "id": 3,
+            "id": 20,
+            "name": "Adrenaline cycles",
+            "description": "602 Corbin Rd",
+            "gpxFile": "assets/gpx/KAT_Motorcycle.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 21,
+            "name": "Audubon Memorial State Park",
+            "description": "Audubon Memorial State Park\nJohn James Audubon State Park\nHenderson, KY, 42420, USA",
+            "gpxFile": "assets/gpx/Ohio River Corridor.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 22,
             "name": "RRS Advanced DBBB ADV 2023",
             "description": "Route through RRS Advanced DBBB ADV 2023",
             "gpxFile": "assets/gpx/RRS Advanced DBBB ADV 2023.gpx",
@@ -25,7 +177,15 @@
             "distance": "150 miles"
         },
         {
-            "id": 4,
+            "id": 23,
+            "name": "Ashland Rogers",
+            "description": "https://cabinsoftheholler.com/",
+            "gpxFile": "assets/gpx/RRS Adventure Master 2024.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 24,
             "name": "RRS Central Dual Sport Loop 2023",
             "description": "Route through RRS Central Dual Sport Loop 2023",
             "gpxFile": "assets/gpx/RRS Central Dual Sport Loop 2023.gpx",
@@ -33,7 +193,7 @@
             "distance": "150 miles"
         },
         {
-            "id": 5,
+            "id": 25,
             "name": "RRS Covered Bridge Loop",
             "description": "Route through RRS Covered Bridge Loop",
             "gpxFile": "assets/gpx/RRS Covered Bridge Loop.gpx",
@@ -41,7 +201,7 @@
             "distance": "150 miles"
         },
         {
-            "id": 6,
+            "id": 26,
             "name": "RRS DBNF FSR",
             "description": "Route through RRS DBNF FSR",
             "gpxFile": "assets/gpx/RRS DBNF FSR.gpx",
@@ -49,7 +209,7 @@
             "distance": "150 miles"
         },
         {
-            "id": 7,
+            "id": 27,
             "name": "RRS Dual Sport Shorty 2023",
             "description": "Route through RRS Dual Sport Shorty 2023",
             "gpxFile": "assets/gpx/RRS Dual Sport Shorty 2023.gpx",
@@ -57,7 +217,23 @@
             "distance": "150 miles"
         },
         {
-            "id": 8,
+            "id": 28,
+            "name": "RRS East Coal Country Paved Loop",
+            "description": "Route through RRS East Coal Country Paved Loop",
+            "gpxFile": "assets/gpx/RRS East Coal Country Paved Loop.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 29,
+            "name": "RRS Intermediate ADV Central Loop 2024",
+            "description": "Route through RRS Intermediate ADV Central Loop 2024",
+            "gpxFile": "assets/gpx/RRS Intermediate ADV Central Loop 2024.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 30,
             "name": "RRS Intermediate ADV Loop 2023",
             "description": "Route through RRS Intermediate ADV Loop 2023",
             "gpxFile": "assets/gpx/RRS Intermediate ADV Loop 2023.gpx",
@@ -65,7 +241,31 @@
             "distance": "150 miles"
         },
         {
-            "id": 9,
+            "id": 31,
+            "name": "RRS Intermediate ADV SW Loop 2024",
+            "description": "Route through RRS Intermediate ADV SW Loop 2024",
+            "gpxFile": "assets/gpx/RRS Intermediate ADV SW Loop 2024.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 32,
+            "name": "RRS Intermediate ADV West Loop 2024",
+            "description": "Route through RRS Intermediate ADV West Loop 2024",
+            "gpxFile": "assets/gpx/RRS Intermediate ADV West Loop 2024.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 33,
+            "name": "RRS Intermediate PLUS ADV SW Loop 2024",
+            "description": "Route through RRS Intermediate PLUS ADV SW Loop 2024",
+            "gpxFile": "assets/gpx/RRS Intermediate PLUS ADV SW Loop 2024.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 34,
             "name": "RRS Iron Furnace Loop",
             "description": "Route through RRS Iron Furnace Loop",
             "gpxFile": "assets/gpx/RRS Iron Furnace Loop.gpx",
@@ -73,23 +273,7 @@
             "distance": "150 miles"
         },
         {
-            "id": 10,
-            "name": "RRS Moonshine Dual Sport Loop 2023",
-            "description": "Route through RRS Moonshine Dual Sport Loop 2023",
-            "gpxFile": "assets/gpx/RRS Moonshine Dual Sport Loop 2023.gpx",
-            "difficulty": "Intermediate",
-            "distance": "150 miles"
-        },
-        {
-            "id": 11,
-            "name": "RRS North Paved Loop",
-            "description": "Route through RRS North Paved Loop",
-            "gpxFile": "assets/gpx/RRS North Street Loop.gpx",
-            "difficulty": "Intermediate",
-            "distance": "150 miles"
-        },
-        {
-            "id": 12,
+            "id": 35,
             "name": "RRS NW Scenic Paved Loop",
             "description": "Route through RRS NW Scenic Paved Loop",
             "gpxFile": "assets/gpx/RRS NW Scenic Paved Loop.gpx",
@@ -97,23 +281,31 @@
             "distance": "150 miles"
         },
         {
-            "id": 13,
-            "name": "RRS Scenic Cental ADV Loop 2023",
-            "description": "Route through RRS Scenic Cental ADV Loop 2023",
-            "gpxFile": "assets/gpx/RRS Scenic Cental ADV Loop 2023.gpx",
+            "id": 36,
+            "name": "RRS North Paved Loop",
+            "description": "Route through RRS North Paved Loop",
+            "gpxFile": "assets/gpx/RRS North Paved Loop.gpx",
             "difficulty": "Intermediate",
             "distance": "150 miles"
         },
         {
-            "id": 14,
-            "name": "RRS South Sweeper Loop",
-            "description": "Route through RRS South Sweeper Loop",
-            "gpxFile": "assets/gpx/RRS South Sweeper Paved Loop.gpx",
+            "id": 37,
+            "name": "RRS North Paved Loop",
+            "description": "Route through RRS North Paved Loop",
+            "gpxFile": "assets/gpx/RRS North Street Loop.gpx",
             "difficulty": "Intermediate",
             "distance": "150 miles"
         },
         {
-            "id": 15,
+            "id": 38,
+            "name": "RRS SE Rustic Paved Loop",
+            "description": "Route through RRS SE Rustic Paved Loop",
+            "gpxFile": "assets/gpx/RRS SE Rustic Paved Loop.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 39,
             "name": "RRS SW Dual Sport Loop 2023",
             "description": "Route through RRS SW Dual Sport Loop 2023",
             "gpxFile": "assets/gpx/RRS SW Dual Sport Loop 2023.gpx",
@@ -121,10 +313,98 @@
             "distance": "150 miles"
         },
         {
-            "id": 16,
+            "id": 40,
             "name": "RRS SW Twisty Paved Loop",
             "description": "Route through RRS SW Twisty Paved Loop",
             "gpxFile": "assets/gpx/RRS SW Twisty Paved Loop.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 41,
+            "name": "RRS Scenic ADV Central Loop 2024",
+            "description": "Route through RRS Scenic ADV Central Loop 2024",
+            "gpxFile": "assets/gpx/RRS Scenic ADV Central Loop 2024.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 42,
+            "name": "RRS Scenic ADV Southwest Loop 2024",
+            "description": "Route through RRS Scenic ADV Southwest Loop 2024",
+            "gpxFile": "assets/gpx/RRS Scenic ADV Southwest Loop 2024.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 43,
+            "name": "RRS Scenic Cental ADV Loop 2023",
+            "description": "Route through RRS Scenic Cental ADV Loop 2023",
+            "gpxFile": "assets/gpx/RRS Scenic Cental ADV Loop 2023.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 44,
+            "name": "RRS Scenic PLUS ADV Southeast Loop 2024",
+            "description": "Route through RRS Scenic PLUS ADV Southeast Loop 2024",
+            "gpxFile": "assets/gpx/RRS Scenic PLUS ADV Southeast Loop 2024.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 45,
+            "name": "RRS South Sweeper Paved Loop",
+            "description": "Route through RRS South Sweeper Paved Loop",
+            "gpxFile": "assets/gpx/RRS South Sweeper Paved Loop.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 46,
+            "name": "C:\\Users\\Luke Biscan\\Documents\\Mapping Programs\\Google Earth Projects\\riding trips\\Souther Kentucky Rural Route\\SKRR.gpx",
+            "description": "SKRRBv",
+            "gpxFile": "assets/gpx/SKRR.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 47,
+            "name": "SEIL03*",
+            "description": "South East Indiana Loop 03",
+            "gpxFile": "assets/gpx/SouthernIndiana Route.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 48,
+            "name": "ALPINE ALPENA LODGE AND RESTURANT",
+            "description": "Route through ALPINE ALPENA LODGE AND RESTURANT",
+            "gpxFile": "assets/gpx/imar.GPX",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 49,
+            "name": "ALPINE ALPENA LODGE AND RESTURANT",
+            "description": "iMAT DAY 1 V1-7 002\n\n",
+            "gpxFile": "assets/gpx/imat.GPX",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 50,
+            "name": "Madison Indiana Dual Sport Loop",
+            "description": null,
+            "gpxFile": "assets/gpx/madison-indiana-dual-sport-loop.gpx",
+            "difficulty": "Intermediate",
+            "distance": "150 miles"
+        },
+        {
+            "id": 51,
+            "name": "Madison Indiana Dual Sport Loop 1",
+            "description": "Madison Indiana Dual Sport Loop 1",
+            "gpxFile": "assets/gpx/madison-indiana-dual-sport-loop2.gpx",
             "difficulty": "Intermediate",
             "distance": "150 miles"
         }
